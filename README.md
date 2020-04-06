@@ -1,6 +1,6 @@
 # Code Fellows 301d61 Reading Notes
 
-[notes]: images/reading-notes.jpg "generic notes image"
+![notes](images/reading-notes.jpg)
 
 * [Class-01](https://penjoe.github.io/301-reading-notes/class-01)
 * [Class-02](https://penjoe.github.io/301-reading-notes/class-02)
