@@ -1,6 +1,6 @@
 # Code Fellows 301d61 Reading Notes
 
-[notes]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "generic notes image"
+[notes]: images/reading-notes.jpg "generic notes image"
 
 * [Class-01](https://penjoe.github.io/301-reading-notes/class-01)
 * [Class-02](https://penjoe.github.io/301-reading-notes/class-02)
