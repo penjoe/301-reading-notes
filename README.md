@@ -2,6 +2,9 @@
 
 ![notes](images/reading-notes.jpg)
 
+A collection of reading notes complied during the Code Fellows 301 course.
+
+## Table of Contents:
 * [Class-01](https://penjoe.github.io/301-reading-notes/class-01)
 * [Class-02](https://penjoe.github.io/301-reading-notes/class-02)
 * [Class-03](https://penjoe.github.io/301-reading-notes/class-03)
