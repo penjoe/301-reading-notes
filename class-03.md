@@ -2,7 +2,7 @@
 
 [Table of Contents](https://penjoe.github.io/301-reading-notes/)
 
-## **Class 02**:
+## **Class 03**:
 
 ### **Article: Templating with Mustache**
 
