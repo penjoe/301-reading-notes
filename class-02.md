@@ -84,3 +84,27 @@ jQuery can also easily add effects and CSS animations to enhance the look and fe
 Similar to effetcs, jQuery can add animations by manipulating CSS properties. Check out the official documentation [HERE](https://api.jquery.com/animate/) to learn more about the jQuery `.animate()` method! There are tons of more features that jQuery has to offer. It's an extremely efficient tool to add to your JavaScript arsenal that will allow you to "write less, do more".
 
 The official jQuery site with full documentation on all of it's functionality can be found [HERE](https://jquery.com/).
+
+### **6 Reasons for Pair Programming**
+
+Pair programming is a practice common in agile work environments. In pair programming, two developers work on the same screen. They each take on a role, one becoming the `Driver` and the other the `Navigator`. The driver is the person hands on the keyboard. They are actively manipulating the code. The navigator uses their words to help guide the driver, thinking about the big picture, what comes next, how an algorithm might be used and helps scan for bugs and errors in real time. While studies have shown that pair programming is slightly slower than the alternative, the result is a higher quality code that doesn't require as much effort later on in debugging and troubleshooting. These are 6 reason why pair programming can be both a great tool for creating quality code and an effective means of improving one's skills:
+
+1. Greater efficiency
+    * "two heads are better than one"
+    * better chance of catching bugs during coding
+2. Engaged collaboration
+    * more engaging process since you have built in accountability
+    * having a partner to rely on decreases need to ask for help, ultimately boosting confidence
+3. Learning from fellow students
+    * can give a different perspective on approach to problem solving
+4. Social Skills
+    * helps improve communication skills and interpersonal skills 
+5. job interview readiness
+    * commonly used in job interviews, so practice now can help when going to interviews
+6. Work environment readiness
+    * commonly used to train newly hired CS students
+    * training in pair programming now gives us a leg up on the competition
+
+### **Further reading and resources:**
+* JavaScript and jQuery book by Jon Duckett pages 332-335
+* JavaScript and jQuery book by Jon Duckett pages 302-305
