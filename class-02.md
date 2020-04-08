@@ -85,7 +85,7 @@ Similar to effetcs, jQuery can add animations by manipulating CSS properties. Ch
 
 The official jQuery site with full documentation on all of it's functionality can be found [HERE](https://jquery.com/).
 
-### **6 Reasons for Pair Programming**
+### **Article: 6 Reasons for Pair Programming**
 
 Pair programming is a practice common in agile work environments. In pair programming, two developers work on the same screen. They each take on a role, one becoming the `Driver` and the other the `Navigator`. The driver is the person hands on the keyboard. They are actively manipulating the code. The navigator uses their words to help guide the driver, thinking about the big picture, what comes next, how an algorithm might be used and helps scan for bugs and errors in real time. While studies have shown that pair programming is slightly slower than the alternative, the result is a higher quality code that doesn't require as much effort later on in debugging and troubleshooting. These are 6 reason why pair programming can be both a great tool for creating quality code and an effective means of improving one's skills:
 

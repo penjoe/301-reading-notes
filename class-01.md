@@ -4,7 +4,7 @@
 
 ## **Class 01**:
 
-### **Shay Howe’s intro to RWD**
+### **Article: Shay Howe’s intro to RWD**
 
 RWD, or Responsive web design, is increasingly more important as more and more users are on mobile phones, tablets laptops and desktops, all with their own specific display size. Unlike traditional web design practices where page layouts were made with fixed sizes, RWD allows a page to adapt in real time to the size of a device's viewport. RWD is broken down into three main categories:
 
@@ -46,7 +46,7 @@ To help account for the growing array of different viewport sizes, specifically 
 
 The last main area of RWD is <u>Flexible Media</u>. As you change the size of a viewport, it is important that the size of media changes along with the size of various HTML elements. A simple way to add scalability to media, such as images and video, is by using the `max-width` property. By using `max-width: 100%;` on an image, it will always scale to size of its parent container.
 
-### **All About Floats**
+### **Article: All About Floats**
 
 `Float` is a CSS positioning property. Using float will tell an HTML element to 'float' to the left or right of the page, allowing text to wrap around it. Elements tha are floated stay within the overall flow of the page. Aside from floating images for text wrapping, you can also float HTML container elements such as `sections` or `asides`. While there are better tools out there for overall layout of a page, float is still very useful, especially in small settings such as placing an image in a box and having text placed next to it, as you might do with an author's bio picture and description. As opposed to absolute positioning, floating elements allows for dynamic movement when a page is resized.
 

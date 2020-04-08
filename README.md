@@ -20,3 +20,10 @@ A collection of reading notes complied during the Code Fellows 301 course.
 * [Class-13](https://penjoe.github.io/301-reading-notes/class-13)
 * [Class-14](https://penjoe.github.io/301-reading-notes/class-14)
 * [Class-15](https://penjoe.github.io/301-reading-notes/class-15)
+
+### Author Info:
+
+Joe Pennock is a full-stack JavaScript developer in the Seattle, WA area.
+
+### License: 
+ Licensed under the free, open-source MIT license. Check out the accompanied License file. Any of the resources here are freely available to the public.
