@@ -1,6 +1,6 @@
 # Code Fellows 301d61 Reading Notes
 
-![notes](images/reading-notes.jpg)
+![notes](/images/reading-notes.jpg)
 
 A collection of reading notes complied during the Code Fellows 301 course.
 

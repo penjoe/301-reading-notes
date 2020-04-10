@@ -2,7 +2,7 @@
 
 [Table of Contents](https://penjoe.github.io/301-reading-notes/)
 
-## **Class 03**:
+## **Class 04**:
 
 ### **CSS Grid Garden**
 
