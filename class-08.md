@@ -2,7 +2,7 @@
 
 [Table of Contents](https://penjoe.github.io/301-reading-notes/)
 
-## **Class 07:**
+## **Class 08:**
 
 ### **What Is SQL?**
 SQL, or Structured Query Language, is a language designed to allow both technical and non-technical users to query, manipulate and transform data from a relational database. SQL is a safe a scalable means of storing data for websites and mobile apps.
