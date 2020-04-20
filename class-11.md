@@ -6,6 +6,8 @@
 
 ### **Video:** [**EJS Tutorial from WalkThroughCode**](https://www.youtube.com/playlist?list=PL7sCSgsRZ-slYARh3YJIqPGZqtGVqZRGt)
 
+- EJS is a simple templating language that lets you generate HTML markup with plain JavaScript
+
 ## **Additional resources:**
 - [**Google Books API Docs**](https://developers.google.com/books/docs/v1/using#WorkingVolumes)
 - [**EJS Docs**](https://ejs.co/)
